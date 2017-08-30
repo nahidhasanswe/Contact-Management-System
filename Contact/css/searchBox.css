@@ -1,0 +1,46 @@
+﻿#namanyay-search-btn {
+background:#0099ff;
+color:white;
+font: 'trebuchet ms', trebuchet;
+padding:10px 20px;
+border-radius:0 5px 5px 0;
+-moz-border-radius:0 5px 5px 0;
+-webkit-border-radius:0 5px 5px 0;
+-o-border-radius:0 5px 5px 0;
+border:0 none;
+font-weight:bold;
+}
+ 
+#namanyay-search-box {
+background: #eee;
+padding:10px;
+ border-radius:5px 0 0 5px;
+-moz-border-radius:5px 0 0 5px;
+-webkit-border-radius:5px 0 0 5px;
+-o-border-radius:5px 0 0 5px;
+border:0 none;
+ }
+
+.inputAlignment{
+    text-align:center;
+    margin:0 auto;
+}
+
+.noResult {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 80%;
+  padding: 13px;
+  overflow: hidden;
+  border: 1px solid rgba(109,100,244,1);
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  font: normal 17px/1 "Times New Roman", Times, serif;
+  color: rgba(255,7,40,1);
+  text-align: center;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: rgba(150,247,166,0.23);
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.2) ;
+}
